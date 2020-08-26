@@ -1,6 +1,2 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.
+*Albert Einstein*
